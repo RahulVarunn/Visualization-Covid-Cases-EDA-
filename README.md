@@ -1,6 +1,6 @@
-# Visualization--Maharashtra-population-EDA-
+# Visualization Covid Cases
 
-
+The data set is based on COVID and with that dataset all processes like data cleaning, data sorting, analysis as well as data visualization are applied on it.
 
 # Some Outputs
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/98281711/178144367-4783f426-164d-4d52-aac9-f6b6a74225f4.png">
